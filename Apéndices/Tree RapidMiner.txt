@@ -1,0 +1,306 @@
+
+Tree
+middle-middle-square = b
+|   top-left-square = b
+|   |   bottom-right-square = o: negative {positive=0, negative=8}
+|   |   bottom-right-square = x: positive {positive=13, negative=0}
+|   top-left-square = o
+|   |   bottom-right-square = b: negative {positive=0, negative=6}
+|   |   bottom-right-square = o: negative {positive=0, negative=4}
+|   |   bottom-right-square = x
+|   |   |   top-right-square = b
+|   |   |   |   bottom-left-square = o: negative {positive=0, negative=3}
+|   |   |   |   bottom-left-square = x: positive {positive=6, negative=0}
+|   |   |   top-right-square = o
+|   |   |   |   top-middle-square = b: positive {positive=3, negative=0}
+|   |   |   |   top-middle-square = o: negative {positive=0, negative=7}
+|   |   |   |   top-middle-square = x
+|   |   |   |   |   middle-right-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   middle-right-square = o: positive {positive=1, negative=0}
+|   |   |   |   |   middle-right-square = x: negative {positive=0, negative=1}
+|   |   |   top-right-square = x
+|   |   |   |   middle-right-square = b
+|   |   |   |   |   top-middle-square = b: negative {positive=0, negative=1}
+|   |   |   |   |   top-middle-square = o: positive {positive=1, negative=0}
+|   |   |   |   middle-right-square = o: positive {positive=2, negative=0}
+|   |   |   |   middle-right-square = x: positive {positive=12, negative=0}
+|   top-left-square = x
+|   |   bottom-right-square = b: positive {positive=20, negative=0}
+|   |   bottom-right-square = o
+|   |   |   top-middle-square = b
+|   |   |   |   bottom-left-square = b: negative {positive=0, negative=1}
+|   |   |   |   bottom-left-square = o: negative {positive=0, negative=3}
+|   |   |   |   bottom-left-square = x
+|   |   |   |   |   middle-left-square = b: negative {positive=0, negative=1}
+|   |   |   |   |   middle-left-square = x: positive {positive=5, negative=0}
+|   |   |   top-middle-square = o: positive {positive=7, negative=0}
+|   |   |   top-middle-square = x
+|   |   |   |   top-right-square = b
+|   |   |   |   |   middle-right-square = b: negative {positive=0, negative=1}
+|   |   |   |   |   middle-right-square = o: positive {positive=1, negative=0}
+|   |   |   |   |   middle-right-square = x: negative {positive=0, negative=1}
+|   |   |   |   top-right-square = o
+|   |   |   |   |   middle-left-square = b: negative {positive=0, negative=2}
+|   |   |   |   |   middle-left-square = x: positive {positive=1, negative=0}
+|   |   |   |   top-right-square = x: positive {positive=14, negative=0}
+|   |   bottom-right-square = x: positive {positive=16, negative=0}
+middle-middle-square = o
+|   top-left-square = b
+|   |   bottom-right-square = b: negative {positive=0, negative=12}
+|   |   bottom-right-square = o: negative {positive=0, negative=5}
+|   |   bottom-right-square = x
+|   |   |   top-middle-square = b
+|   |   |   |   bottom-middle-square = b: negative {positive=0, negative=2}
+|   |   |   |   bottom-middle-square = o: positive {positive=1, negative=0}
+|   |   |   |   bottom-middle-square = x: negative {positive=0, negative=3}
+|   |   |   top-middle-square = o
+|   |   |   |   bottom-middle-square = b: positive {positive=3, negative=0}
+|   |   |   |   bottom-middle-square = o: negative {positive=0, negative=7}
+|   |   |   |   bottom-middle-square = x
+|   |   |   |   |   bottom-left-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   bottom-left-square = o
+|   |   |   |   |   |   top-right-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   |   top-right-square = x: positive {positive=1, negative=0}
+|   |   |   |   |   bottom-left-square = x: positive {positive=7, negative=0}
+|   |   |   top-middle-square = x
+|   |   |   |   top-right-square = b: negative {positive=0, negative=2}
+|   |   |   |   top-right-square = o: negative {positive=0, negative=6}
+|   |   |   |   top-right-square = x
+|   |   |   |   |   middle-right-square = o: negative {positive=0, negative=3}
+|   |   |   |   |   middle-right-square = x: positive {positive=3, negative=0}
+|   top-left-square = o
+|   |   bottom-right-square = b: negative {positive=0, negative=5}
+|   |   bottom-right-square = o: negative {positive=0, negative=43}
+|   |   bottom-right-square = x
+|   |   |   middle-left-square = b
+|   |   |   |   top-right-square = b: positive {positive=3, negative=0}
+|   |   |   |   top-right-square = o
+|   |   |   |   |   bottom-left-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   bottom-left-square = x: positive {positive=2, negative=0}
+|   |   |   |   top-right-square = x: positive {positive=9, negative=0}
+|   |   |   middle-left-square = o
+|   |   |   |   middle-right-square = b
+|   |   |   |   |   top-right-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   top-right-square = x: negative {positive=0, negative=1}
+|   |   |   |   middle-right-square = o: negative {positive=0, negative=2}
+|   |   |   |   middle-right-square = x
+|   |   |   |   |   bottom-left-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   bottom-left-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   bottom-left-square = x: positive {positive=4, negative=0}
+|   |   |   middle-left-square = x
+|   |   |   |   top-right-square = b
+|   |   |   |   |   middle-right-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   middle-right-square = o: positive {positive=1, negative=0}
+|   |   |   |   |   middle-right-square = x: negative {positive=0, negative=1}
+|   |   |   |   top-right-square = o
+|   |   |   |   |   middle-right-square = b
+|   |   |   |   |   |   top-middle-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   |   top-middle-square = x: negative {positive=0, negative=1}
+|   |   |   |   |   middle-right-square = o: positive {positive=1, negative=0}
+|   |   |   |   |   middle-right-square = x: negative {positive=0, negative=5}
+|   |   |   |   top-right-square = x
+|   |   |   |   |   middle-right-square = b: negative {positive=0, negative=1}
+|   |   |   |   |   middle-right-square = o
+|   |   |   |   |   |   top-middle-square = o: positive {positive=1, negative=0}
+|   |   |   |   |   |   top-middle-square = x: negative {positive=0, negative=2}
+|   |   |   |   |   middle-right-square = x: positive {positive=5, negative=0}
+|   top-left-square = x
+|   |   top-middle-square = b
+|   |   |   bottom-left-square = b
+|   |   |   |   middle-right-square = o: negative {positive=0, negative=2}
+|   |   |   |   middle-right-square = x: positive {positive=1, negative=0}
+|   |   |   bottom-left-square = o
+|   |   |   |   top-right-square = o: negative {positive=0, negative=10}
+|   |   |   |   top-right-square = x
+|   |   |   |   |   middle-left-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   middle-left-square = o
+|   |   |   |   |   |   middle-right-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   |   middle-right-square = x: positive {positive=1, negative=0}
+|   |   |   |   |   middle-left-square = x: negative {positive=0, negative=1}
+|   |   |   bottom-left-square = x
+|   |   |   |   middle-left-square = b: positive {positive=1, negative=0}
+|   |   |   |   middle-left-square = o
+|   |   |   |   |   top-right-square = b: negative {positive=0, negative=2}
+|   |   |   |   |   top-right-square = o: positive {positive=1, negative=0}
+|   |   |   |   |   top-right-square = x: negative {positive=0, negative=3}
+|   |   |   |   middle-left-square = x: positive {positive=16, negative=0}
+|   |   top-middle-square = o
+|   |   |   bottom-middle-square = b
+|   |   |   |   bottom-left-square = b: positive {positive=1, negative=0}
+|   |   |   |   bottom-left-square = o
+|   |   |   |   |   top-right-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   top-right-square = x: positive {positive=1, negative=0}
+|   |   |   |   bottom-left-square = x: positive {positive=7, negative=0}
+|   |   |   bottom-middle-square = o: negative {positive=0, negative=16}
+|   |   |   bottom-middle-square = x
+|   |   |   |   bottom-left-square = o
+|   |   |   |   |   middle-left-square = b: negative {positive=0, negative=1}
+|   |   |   |   |   middle-left-square = o: positive {positive=1, negative=0}
+|   |   |   |   |   middle-left-square = x: negative {positive=0, negative=4}
+|   |   |   |   bottom-left-square = x
+|   |   |   |   |   top-right-square = b: positive {positive=4, negative=0}
+|   |   |   |   |   top-right-square = o: positive {positive=5, negative=0}
+|   |   |   |   |   top-right-square = x
+|   |   |   |   |   |   middle-left-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   |   middle-left-square = x: positive {positive=1, negative=0}
+|   |   top-middle-square = x
+|   |   |   top-right-square = b
+|   |   |   |   middle-left-square = o: negative {positive=0, negative=6}
+|   |   |   |   middle-left-square = x
+|   |   |   |   |   middle-right-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   middle-right-square = o: positive {positive=2, negative=0}
+|   |   |   |   |   middle-right-square = x: negative {positive=0, negative=1}
+|   |   |   top-right-square = o
+|   |   |   |   middle-left-square = b: negative {positive=0, negative=2}
+|   |   |   |   middle-left-square = o: negative {positive=0, negative=2}
+|   |   |   |   middle-left-square = x: positive {positive=5, negative=0}
+|   |   |   top-right-square = x: positive {positive=38, negative=0}
+middle-middle-square = x
+|   top-left-square = b
+|   |   bottom-right-square = b: positive {positive=24, negative=0}
+|   |   bottom-right-square = o
+|   |   |   top-middle-square = b
+|   |   |   |   middle-left-square = b: negative {positive=0, negative=2}
+|   |   |   |   middle-left-square = o: positive {positive=2, negative=0}
+|   |   |   |   middle-left-square = x
+|   |   |   |   |   top-right-square = o: negative {positive=0, negative=2}
+|   |   |   |   |   top-right-square = x
+|   |   |   |   |   |   middle-right-square = b: negative {positive=0, negative=1}
+|   |   |   |   |   |   middle-right-square = o: positive {positive=1, negative=0}
+|   |   |   top-middle-square = o
+|   |   |   |   top-right-square = b: positive {positive=3, negative=0}
+|   |   |   |   top-right-square = o
+|   |   |   |   |   middle-right-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   middle-right-square = x: positive {positive=2, negative=0}
+|   |   |   |   top-right-square = x: positive {positive=9, negative=0}
+|   |   |   top-middle-square = x
+|   |   |   |   bottom-middle-square = b
+|   |   |   |   |   middle-left-square = b: negative {positive=0, negative=1}
+|   |   |   |   |   middle-left-square = o: positive {positive=1, negative=0}
+|   |   |   |   |   middle-left-square = x
+|   |   |   |   |   |   middle-right-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   |   middle-right-square = x: positive {positive=1, negative=0}
+|   |   |   |   bottom-middle-square = o
+|   |   |   |   |   bottom-left-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   bottom-left-square = o: negative {positive=0, negative=5}
+|   |   |   |   |   bottom-left-square = x
+|   |   |   |   |   |   top-right-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   |   top-right-square = x: positive {positive=2, negative=0}
+|   |   |   |   bottom-middle-square = x: positive {positive=10, negative=0}
+|   |   bottom-right-square = x: positive {positive=17, negative=0}
+|   top-left-square = o
+|   |   bottom-right-square = b
+|   |   |   middle-left-square = b
+|   |   |   |   top-middle-square = b: positive {positive=2, negative=0}
+|   |   |   |   top-middle-square = o
+|   |   |   |   |   top-right-square = o: negative {positive=0, negative=3}
+|   |   |   |   |   top-right-square = x: positive {positive=3, negative=0}
+|   |   |   |   top-middle-square = x: positive {positive=7, negative=0}
+|   |   |   middle-left-square = o
+|   |   |   |   bottom-left-square = b: positive {positive=3, negative=0}
+|   |   |   |   bottom-left-square = o: negative {positive=0, negative=7}
+|   |   |   |   bottom-left-square = x
+|   |   |   |   |   top-right-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   top-right-square = o
+|   |   |   |   |   |   top-middle-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   |   top-middle-square = x: positive {positive=1, negative=0}
+|   |   |   |   |   top-right-square = x: positive {positive=5, negative=0}
+|   |   |   middle-left-square = x
+|   |   |   |   middle-right-square = b
+|   |   |   |   |   bottom-left-square = b: negative {positive=0, negative=1}
+|   |   |   |   |   bottom-left-square = o: positive {positive=1, negative=0}
+|   |   |   |   |   bottom-left-square = x
+|   |   |   |   |   |   top-right-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   |   top-right-square = x: positive {positive=1, negative=0}
+|   |   |   |   middle-right-square = o
+|   |   |   |   |   top-middle-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   top-middle-square = o
+|   |   |   |   |   |   top-right-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   |   top-right-square = x: positive {positive=1, negative=0}
+|   |   |   |   |   top-middle-square = x: positive {positive=2, negative=0}
+|   |   |   |   middle-right-square = x: positive {positive=13, negative=0}
+|   |   bottom-right-square = o
+|   |   |   top-right-square = b: positive {positive=12, negative=0}
+|   |   |   top-right-square = o
+|   |   |   |   top-middle-square = b
+|   |   |   |   |   middle-right-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   middle-right-square = x: positive {positive=2, negative=0}
+|   |   |   |   top-middle-square = o: negative {positive=0, negative=2}
+|   |   |   |   top-middle-square = x
+|   |   |   |   |   middle-right-square = b: positive {positive=2, negative=0}
+|   |   |   |   |   middle-right-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   middle-right-square = x: positive {positive=5, negative=0}
+|   |   |   top-right-square = x
+|   |   |   |   bottom-left-square = b: positive {positive=4, negative=0}
+|   |   |   |   bottom-left-square = o
+|   |   |   |   |   middle-left-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   middle-left-square = o: negative {positive=0, negative=2}
+|   |   |   |   |   middle-left-square = x: positive {positive=3, negative=0}
+|   |   |   |   bottom-left-square = x: positive {positive=18, negative=0}
+|   |   bottom-right-square = x
+|   |   |   bottom-left-square = b
+|   |   |   |   top-middle-square = b: positive {positive=2, negative=0}
+|   |   |   |   top-middle-square = o
+|   |   |   |   |   top-right-square = o: negative {positive=0, negative=5}
+|   |   |   |   |   top-right-square = x: positive {positive=2, negative=0}
+|   |   |   |   top-middle-square = x: positive {positive=3, negative=0}
+|   |   |   bottom-left-square = o
+|   |   |   |   middle-left-square = b
+|   |   |   |   |   top-middle-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   top-middle-square = o
+|   |   |   |   |   |   top-right-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   |   top-right-square = x: positive {positive=1, negative=0}
+|   |   |   |   |   top-middle-square = x: positive {positive=2, negative=0}
+|   |   |   |   middle-left-square = o: negative {positive=0, negative=12}
+|   |   |   |   middle-left-square = x
+|   |   |   |   |   middle-right-square = b: negative {positive=0, negative=1}
+|   |   |   |   |   middle-right-square = o
+|   |   |   |   |   |   top-right-square = o: positive {positive=1, negative=0}
+|   |   |   |   |   |   top-right-square = x: negative {positive=0, negative=2}
+|   |   |   |   |   middle-right-square = x: positive {positive=4, negative=0}
+|   |   |   bottom-left-square = x
+|   |   |   |   top-right-square = b: positive {positive=3, negative=0}
+|   |   |   |   top-right-square = o
+|   |   |   |   |   bottom-middle-square = b: negative {positive=0, negative=3}
+|   |   |   |   |   bottom-middle-square = o: negative {positive=0, negative=4}
+|   |   |   |   |   bottom-middle-square = x: positive {positive=3, negative=0}
+|   |   |   |   top-right-square = x: positive {positive=8, negative=0}
+|   top-left-square = x
+|   |   bottom-right-square = b: positive {positive=20, negative=0}
+|   |   bottom-right-square = o
+|   |   |   top-middle-square = b
+|   |   |   |   bottom-left-square = b
+|   |   |   |   |   middle-right-square = o: negative {positive=0, negative=2}
+|   |   |   |   |   middle-right-square = x: positive {positive=1, negative=0}
+|   |   |   |   bottom-left-square = o
+|   |   |   |   |   bottom-middle-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   bottom-middle-square = o: negative {positive=0, negative=4}
+|   |   |   |   |   bottom-middle-square = x: negative {positive=0, negative=1}
+|   |   |   |   bottom-left-square = x
+|   |   |   |   |   bottom-middle-square = b
+|   |   |   |   |   |   top-right-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   |   top-right-square = x: positive {positive=1, negative=0}
+|   |   |   |   |   bottom-middle-square = o: positive {positive=4, negative=0}
+|   |   |   |   |   bottom-middle-square = x: negative {positive=0, negative=1}
+|   |   |   top-middle-square = o
+|   |   |   |   bottom-middle-square = b: positive {positive=6, negative=0}
+|   |   |   |   bottom-middle-square = o
+|   |   |   |   |   bottom-left-square = b: positive {positive=1, negative=0}
+|   |   |   |   |   bottom-left-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   bottom-left-square = x: positive {positive=5, negative=0}
+|   |   |   |   bottom-middle-square = x
+|   |   |   |   |   middle-left-square = b: negative {positive=0, negative=1}
+|   |   |   |   |   middle-left-square = o
+|   |   |   |   |   |   middle-right-square = o: positive {positive=1, negative=0}
+|   |   |   |   |   |   middle-right-square = x: negative {positive=0, negative=2}
+|   |   |   |   |   middle-left-square = x
+|   |   |   |   |   |   middle-right-square = o: negative {positive=0, negative=2}
+|   |   |   |   |   |   middle-right-square = x: positive {positive=1, negative=0}
+|   |   |   top-middle-square = x
+|   |   |   |   bottom-middle-square = b: positive {positive=3, negative=0}
+|   |   |   |   bottom-middle-square = o
+|   |   |   |   |   top-right-square = b: negative {positive=0, negative=3}
+|   |   |   |   |   top-right-square = o: negative {positive=0, negative=1}
+|   |   |   |   |   top-right-square = x: positive {positive=3, negative=0}
+|   |   |   |   bottom-middle-square = x: positive {positive=7, negative=0}
+|   |   bottom-right-square = x: positive {positive=90, negative=0}
